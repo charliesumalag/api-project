@@ -1,0 +1,23 @@
+# Ignore environment files
+.env
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore compiled files
+*.exe
+*.out
+
+# Ignore database files
+*.sqlite
+*.db
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
